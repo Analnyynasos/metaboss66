@@ -1,0 +1,16 @@
+{
+  "name": "De Dino #17",
+  "symbol": "DEDINOS",
+  "description": "Only 333 Dinos remain on the planet, grants you life-time access to the fastest minting & sniping bot & VIP Alpha Club.",
+  "seller_fee_basis_points": 200,
+  "image": "https://nftstorage.link/ipfs/bafybeift6hvjvrra2xij74bbfpf77oh3hwdycl4em4czlihwatncw2o3xq/17.png",
+  "attributes": [],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FZ9XCR9S7zWiAupBms1T6wXpH2MEkZxtREy2UroxdU3J",
+        "share": 100
+      }
+    ]
+  }
+}
